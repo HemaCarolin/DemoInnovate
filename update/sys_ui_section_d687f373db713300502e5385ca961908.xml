@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="My Idea" section_id="d687f373db713300502e5385ca961908" sys_domain="global" table="x_354312_innovated_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 06:42:03</sys_created_on>
+            <sys_id>15cfda70db92330056e7f53a2996199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_354312_innovated_innovate" sys_domain="global" view="Default view">d687f373db713300502e5385ca961908</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 06:42:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-10 00:15:54</sys_created_on>
+            <sys_id>a2873773db713300502e5385ca96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_354312_innovated_innovate" sys_domain="global" view="Default view">d687f373db713300502e5385ca961908</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-10 00:15:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Idea</caption>
+            <header>false</header>
+            <name>x_354312_innovated_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-10 00:15:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d687f373db713300502e5385ca961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovatedemo" source="x_354312_innovated">daac2d83dbf13300502e5385ca961944</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovatedemo">daac2d83dbf13300502e5385ca961944</sys_scope>
+            <sys_update_name>sys_ui_section_d687f373db713300502e5385ca961908</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-10 00:15:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
